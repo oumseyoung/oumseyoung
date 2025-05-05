@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm a passionate developer and a sophomore majorin
 - 💬 Ask me about JavaScript, Python, and anything web development related.
 -->
 - 📫 How to reach me: [Email](mailto:seyoungoum04@gmail.com) | [LinkedIn](https://www.linkedin.com/in/seyoungoum)
-- 😄 Pronouns: She/Her
 <!--
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 -->

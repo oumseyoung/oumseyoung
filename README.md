@@ -23,7 +23,5 @@ Welcome to my GitHub profile! I'm a passionate developer and a sophomore majorin
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or have any questions. Let's connect and create something amazing together!
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=oumseyoung&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumseyoung&layout=compact&theme=radical)
 

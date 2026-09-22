@@ -2,8 +2,11 @@
   
 # Seyoung Oum
 
-Aspiring **Frontend Engineer** focused on **understanding problems before solving them with code**.  
-Interested in building interfaces that **improve user experience**.
+**Frontend Engineer** focused on **understanding user flows and turning them into better experiences**.  
+I build interfaces by looking beyond the screen to understand **how services work and where problems come from**.
+
+**사용자의 흐름을 이해하고 더 나은 경험으로 연결하는 프론트엔드 개발자**입니다.  
+화면에 보이는 부분에 그치지 않고 **서비스가 동작하는 방식과 문제의 원인까지 이해하며 더 나은 사용자 경험을 만드는 개발**을 지향합니다.
 
 <br>
 
